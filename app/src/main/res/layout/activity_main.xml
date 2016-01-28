@@ -13,7 +13,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="50"
-        android:text="@string/convert_content1" />
+        android:text="@string/convert_content" />
     
     <Button
         android:id="@+id/button_start"
@@ -21,6 +21,6 @@
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/editText_cmd"
         android:layout_below="@+id/editText_cmd"
-        android:text="Start" />
+        android:text="Transcoding" />
             
 </RelativeLayout>
